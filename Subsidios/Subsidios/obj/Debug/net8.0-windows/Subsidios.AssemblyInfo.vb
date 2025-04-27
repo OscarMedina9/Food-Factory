@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Subsidios"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a62779be6ca86c8c4d28c5df05e8ab6caf0a6294"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b02fcb5e8a065d2f145cfd72b8c4825c6316186b"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Subsidios"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Subsidios"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
