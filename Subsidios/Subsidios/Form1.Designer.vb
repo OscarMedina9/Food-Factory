@@ -23,6 +23,7 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         txtCodigoBarras = New TextBox()
+        TextBox1 = New TextBox()
         SuspendLayout()
         ' 
         ' txtCodigoBarras
@@ -32,11 +33,19 @@ Partial Class Form1
         txtCodigoBarras.Size = New Size(231, 27)
         txtCodigoBarras.TabIndex = 0
         ' 
+        ' TextBox1
+        ' 
+        TextBox1.Location = New Point(432, 182)
+        TextBox1.Name = "TextBox1"
+        TextBox1.Size = New Size(231, 27)
+        TextBox1.TabIndex = 1
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(TextBox1)
         Controls.Add(txtCodigoBarras)
         Name = "Form1"
         Text = "Subsidios"
@@ -45,5 +54,6 @@ Partial Class Form1
     End Sub
 
     Friend WithEvents txtCodigoBarras As TextBox
+    Friend WithEvents TextBox1 As TextBox
 
 End Class
