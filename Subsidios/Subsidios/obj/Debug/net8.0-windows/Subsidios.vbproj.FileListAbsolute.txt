@@ -1,0 +1,17 @@
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\bin\Debug\net8.0-windows\Subsidios.exe
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\bin\Debug\net8.0-windows\Subsidios.deps.json
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\bin\Debug\net8.0-windows\Subsidios.runtimeconfig.json
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\bin\Debug\net8.0-windows\Subsidios.dll
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\bin\Debug\net8.0-windows\Subsidios.pdb
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.Form1.resources
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.vbproj.GenerateResource.cache
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.AssemblyInfoInputs.cache
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.AssemblyInfo.vb
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.vbproj.CoreCompileInputs.cache
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.sourcelink.json
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.dll
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\refint\Subsidios.dll
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.pdb
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\Subsidios.genruntimeconfig.cache
+C:\Users\neona\source\repos\OscarMedina9\Food-Factory\Subsidios\Subsidios\obj\Debug\net8.0-windows\ref\Subsidios.dll

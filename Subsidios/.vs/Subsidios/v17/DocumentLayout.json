@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neona\\source\\repos\\OscarMedina9\\Food-Factory\\Subsidios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B3A5397-C390-4675-85FA-4B70362C464B}|Subsidios\\Subsidios.vbproj|c:\\users\\neona\\source\\repos\\oscarmedina9\\food-factory\\subsidios\\subsidios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5B3A5397-C390-4675-85FA-4B70362C464B}|Subsidios\\Subsidios.vbproj|solutionrelative:subsidios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\neona\\source\\repos\\OscarMedina9\\Food-Factory\\Subsidios\\Subsidios\\Form1.vb",
+              "RelativeDocumentMoniker": "Subsidios\\Form1.vb",
+              "ToolTip": "C:\\Users\\neona\\source\\repos\\OscarMedina9\\Food-Factory\\Subsidios\\Subsidios\\Form1.vb [Design]",
+              "RelativeToolTip": "Subsidios\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-27T00:30:26.208Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
